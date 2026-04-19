@@ -1,16 +1,16 @@
-# 🛡️ Panel Administrativo — React + Vite
+# Panel Administrativo — React + Vite
 
 Panel administrativo web construido con **React 18**, **Vite** y **Bootstrap 5**, desarrollado como ejercicio práctico del curso de Ingeniería de Sistemas.
 
 ---
 
-## 📸 Vista general
+## Vista general
 
 El panel incluye una barra lateral fija (sidebar) con navegación entre secciones, barra superior con acciones rápidas, y vistas con tablas de datos para Clientes, Proveedores y Usuarios.
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 | Herramienta | Versión | Uso |
 |---|---|---|
@@ -22,7 +22,7 @@ El panel incluye una barra lateral fija (sidebar) con navegación entre seccione
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 admin-panel/
@@ -42,9 +42,8 @@ admin-panel/
         └── Logout.jsx        ← Vista de cierre de sesión
 ```
 
----
 
-## ⚙️ Instalación y ejecución
+## Instalación y ejecución
 
 ### Requisitos previos
 - Node.js **v18+** instalado
@@ -78,7 +77,7 @@ Abre [http://localhost:5173](http://localhost:5173) en tu navegador.
 
 ---
 
-## 🗺️ Rutas del sistema
+## Rutas del sistema
 
 | Ruta | Componente | Descripción |
 |---|---|---|
@@ -90,20 +89,20 @@ Abre [http://localhost:5173](http://localhost:5173) en tu navegador.
 
 ---
 
-## ✨ Características
+## Características
 
-- ✅ Navegación tipo SPA sin recarga (usando `<NavLink>`)
-- ✅ Sidebar responsivo con indicador de sección activa
-- ✅ Tablas con búsqueda en tiempo real
-- ✅ Tarjetas de estadísticas por sección
-- ✅ Badges de estado (Activo / Inactivo / Pendiente)
-- ✅ Diseño profesional con Bootstrap + CSS personalizado
-- ✅ Íconos integrados con Bootstrap Icons
+-  Navegación tipo SPA sin recarga (usando `<NavLink>`)
+-  Sidebar responsivo con indicador de sección activa
+-  Tablas con búsqueda en tiempo real
+-  Tarjetas de estadísticas por sección
+-  Badges de estado (Activo / Inactivo / Pendiente)
+-  Diseño profesional con Bootstrap + CSS personalizado
+-  Íconos integrados con Bootstrap Icons
 
 ---
 
 ## 👨‍💻 Autor
 
-Desarrollado para el **Taller de Panel Administrativo Web con React JS**  
+Desarrollado por: **Anderson Nicolas Díaz Camacho - 2214105**  
 Docente: Carlos Adolfo Beltrán Castro  
 Escuela de Ingeniería de Sistemas e Informática — I Semestre 2025
