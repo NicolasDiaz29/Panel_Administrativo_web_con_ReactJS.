@@ -101,7 +101,7 @@ Abre [http://localhost:5173](http://localhost:5173) en tu navegador.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desarrollado por: **Anderson Nicolas Díaz Camacho - 2214105**  
 Docente: Carlos Adolfo Beltrán Castro  
