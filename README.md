@@ -119,6 +119,6 @@ Abre http://localhost:5173 en tu navegador.
 
 ## Autor
 
-Desarrollado para el Taller de Panel Administrativo Web con React JS  
+Desarrollado por: **Anderson Nicolas Díaz Camacho - 2214105**
 Docente: Carlos Adolfo Beltrán Castro  
 Escuela de Ingeniería de Sistemas e Informática — I Semestre 2025
